@@ -1,16 +1,36 @@
+
+Hi there 👋
+💻 Tecnologia e Programação
+
+![Tecnologia](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80)
+
+Bem-vindo ao meu portefólio! 🚀
 ## Hi there 👋
 
-<!--
-**rosaborges/rosaborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+codecov:
+  require_ci_to_pass: yes
 
-Here are some ideas to get you started:
+coverage:
+  precision: 2
+  round: down
+  range: "70...100"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  status:
+    project:
+      default:
+        threshold: 5
+    patch: false
+
+
+
+https://codecov.io/gh/rosaborges/meu-projeto/graph/badge.svg
+
+
+
+
+
+
+
+
+
+
