@@ -2,8 +2,12 @@
 Hi there 👋
 💻 Tecnologia e Programação
 
-![Tecnologia](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80)
+Copia este código e cola no teu `README.md` do GitHub:
 
+markdown
+```
+![Tecnologia](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80)
+```
 Bem-vindo ao meu portefólio! 🚀
 ## Hi there 👋
 
